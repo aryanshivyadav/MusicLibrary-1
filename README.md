@@ -1,2 +1,2 @@
-# MusicLibrary-1
+# MusicLibrary
 It is a MERN stack project
